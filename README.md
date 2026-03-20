@@ -107,7 +107,7 @@ Sistema de gerenciamento de estoque com paleta dark terminal, desenvolvido intei
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/sistema-estoque.git
+git clone https://github.com/majestev/Sistema-de-estoque.git
 cd sistema-estoque
 
 # Execute diretamente — sem instalar nada
