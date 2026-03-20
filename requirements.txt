@@ -1,0 +1,10 @@
+# Sem dependências externas.
+# Este projeto usa apenas a biblioteca padrão do Python (stdlib):
+#   - tkinter  (interface gráfica)
+#   - sqlite3  (banco de dados)
+#   - os, sys, pathlib, datetime (utilitários)
+#
+# Requisito mínimo: Python 3.8+
+#
+# Ubuntu/Debian — se Tkinter não estiver disponível:
+#   sudo apt install python3-tk
